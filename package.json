@@ -1,0 +1,13 @@
+{
+  "name": "jsarrayops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsArrayOps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node jsArrayOps.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
